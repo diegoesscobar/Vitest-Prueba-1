@@ -10,5 +10,6 @@ export class Alumno {
   esMayorDeEdad(): boolean {
     return this.edad >= 18;
     
+    
   }
 }
